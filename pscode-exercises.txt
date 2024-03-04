@@ -13,7 +13,7 @@ print on the screen the sum of those 2 numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-I have no idea how to do this one. 
+Divide number by 2.  If number has a 0 after decimal, it is even.  If number has a .5 after decimal, it is odd. 
 
 
 // Exercise 3: 
